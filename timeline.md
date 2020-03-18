@@ -72,15 +72,15 @@
 # 2011-04-09
 - Released 0.6.0
 
+# 2011-07-31
+- Released 0.6.1
+
 # 2012
 - Retirement of Magnus Auvinen
 
 # 2012-04-01
 - 2012 April fool. The devloppers released a fake version of Teeworlds 0.1. It was just a very pixelated Teeworlds 0.6.0.
   https://www.teeworlds.com/forum/viewtopic.php?id=9332
-
-# 2011-07-31
-- Released 0.6.1
 
 # 2013-05-01
 - Released 0.6.2
