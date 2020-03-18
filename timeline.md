@@ -120,7 +120,7 @@
 # 2019-04-20
 - Released 0.7.3
 - Easter update
-![0.7.3 Banner](https://i.imgur.com/S1JY1W0.png)
+![0.7.3 Banner](https://i.imgur.com/yrGz8ge.png)
 
 # 2019-12-23
 - Released 0.7.4
