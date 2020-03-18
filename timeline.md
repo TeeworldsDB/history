@@ -55,7 +55,7 @@
 - Released 0.4.1
 
 # 2008-04-05
--Released 0.4.2
+- Released 0.4.2
 
 # 2008-08-31
 - Released 0.4.3
@@ -93,9 +93,21 @@
 
 # 2014-11-20
 - Released 0.6.3
+- Servers are updated
 
 # 2015-08-24
 - Steam release
 
-# 2018
-- 0.7 release
+# 2016-11-13
+- Released 0.6.4
+
+# 2018-10-13
+- Released 0.6.5
+
+# 2018-10-14
+- Released 0.7.0 beta
+
+# 2018-12-09
+- Released 0.7.1
+- The game got a lot of updates for customizations.
+![0.7.1 Banner](https://www.teeworlds.com/images/news/0.7.1-banner.png)
