@@ -36,8 +36,19 @@
 - Released 0.3.1
 - Added "fair" player spawning, ability to kick players and welcome screen.
 
-# 2008
+# 2008-01-09
+- Released 0.3.2
+
+# 2008-01-17
+- Released 0.3.3
+
+# 2008-02-28
+- Released 0.3.4
+
+# 2008-04-11
 - Released 0.4.0
+
+# 2008-03-22
 - Rename 'Teewars' -> 'Teeworlds'
 
 # 2012
