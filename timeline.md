@@ -45,14 +45,45 @@
 # 2008-02-28
 - Released 0.3.4
 
-# 2008-04-11
-- Released 0.4.0
-
 # 2008-03-22
 - Rename 'Teewars' -> 'Teeworlds'
 
+# 2008-04-11
+- Released 0.4.0
+
+# 2008-04-15
+- Released 0.4.1
+
+# 2008-05-17
+-Released 0.4.2
+
+# 2008-10-03
+- Released 0.4.3
+
+# 2009-01-18
+- Released 0.5.0
+
+# 2009-06-08
+- Released 0.5.1
+
+# 2010-03-11
+- Released 0.5.2
+
+# 2011-07-22
+- Released 0.6.0
+
 # 2012
 - Retirement of Magnus Auvinen
+
+# 2012-04-01
+- 2012 April fool. The devloppers released a fake version of Teeworlds 0.1. It was just a very pixelated Teeworlds 0.6.0.
+  https://www.teeworlds.com/forum/viewtopic.php?id=9332
+
+# 2013-01-20
+- 0.6.1 Released
+
+# 2014-05-02
+- 0.6.2 Released
 
 # 2015
 - Steam release
