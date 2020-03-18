@@ -111,3 +111,21 @@
 - Released 0.7.1
 - The game got a lot of updates for customizations.
 ![0.7.1 Banner](https://www.teeworlds.com/images/news/0.7.1-banner.png)
+
+# 2018-12-24
+- Released 0.7.2
+- Christmas update. Santa hats are added.
+![0.7.2 Banner](https://i.imgur.com/S1JY1W0.png)
+
+# 2019-04-20
+- Released 0.7.3
+- Easter update
+![0.7.3 Banner](https://i.imgur.com/S1JY1W0.png)
+
+# 2019-12-23
+- Released 0.7.4
+- New Year update
+- A lot of skin customizations are added.
+![0.7.4 Banner](https://www.teeworlds.com/images/header_0.7.4.png)
+- For the first time since  0.6.0, a new trailer is made for Teeworlds.
+0.7.4 Trailer > https://www.youtube.com/watch?v=4KDsXsgw-vY
