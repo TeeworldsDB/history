@@ -3,6 +3,8 @@
 - You can run around and shoot
 - There is also rockets and explosions.
 
+![Teewars logo](https://web.archive.org/web/20040225103157im_/http://www.teewars.com/teewars/images/logo_big.png)
+
 # 2003-04-11
 - Rename 'shootout' -> 'Teewars'
 
