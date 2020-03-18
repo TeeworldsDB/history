@@ -48,28 +48,28 @@
 # 2008-03-22
 - Rename 'Teewars' -> 'Teeworlds'
 
-# 2008-04-11
+# 2008-03-22
 - Released 0.4.0
 
-# 2008-04-15
+# 2008-03-23
 - Released 0.4.1
 
-# 2008-05-17
+# 2008-04-05
 -Released 0.4.2
 
-# 2008-10-03
+# 2008-08-31
 - Released 0.4.3
 
-# 2009-01-18
+# 2009-01-13
 - Released 0.5.0
 
-# 2009-06-08
+# 2009-01-25
 - Released 0.5.1
 
-# 2010-03-11
+# 2009-10-26
 - Released 0.5.2
 
-# 2011-07-22
+# 2011-04-09
 - Released 0.6.0
 
 # 2012
@@ -79,13 +79,22 @@
 - 2012 April fool. The devloppers released a fake version of Teeworlds 0.1. It was just a very pixelated Teeworlds 0.6.0.
   https://www.teeworlds.com/forum/viewtopic.php?id=9332
 
-# 2013-01-20
-- 0.6.1 Released
+# 2011-07-31
+- Released 0.6.1
 
-# 2014-05-02
-- 0.6.2 Released
+# 2013-05-01
+- Released 0.6.2
 
-# 2015
+# 2014-03-11
+- First Teeworlds tournament
+
+# 2014-05-08
+- Second Teeworlds tournament
+
+# 2014-11-20
+- Released 0.6.3
+
+# 2015-08-24
 - Steam release
 
 # 2018
