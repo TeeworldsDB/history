@@ -28,11 +28,16 @@
 # 2003-06-30
 - Matricks announced all gameplay code would be written in lua.
 
-# 2007
-- Open source
+# 2007-12-15
+- Released 0.3.0
+- Added TDM, CTF, new maps and client-side prediction.
+
+# 2007-12-20
+- Released 0.3.1
+- Added "fair" player spawning, ability to kick players and welcome screen.
 
 # 2008
-- 0.4.0
+- Released 0.4.0
 - Rename 'Teewars' -> 'Teeworlds'
 
 # 2012
