@@ -87,9 +87,11 @@
 
 # 2014-03-11
 - First Teeworlds tournament
+![1st tournament banner](https://i.imgur.com/qsAVKkL.png)
 
 # 2014-05-08
 - Second Teeworlds tournament
+![2d tournament banner](https://i.imgur.com/81BNEJ0.png)
 
 # 2014-11-20
 - Released 0.6.3
