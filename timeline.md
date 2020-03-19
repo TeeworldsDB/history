@@ -31,6 +31,8 @@
 # 2007-12-15
 - Released 0.3.0
 - Added TDM, CTF, new maps and client-side prediction.
+- Archive of 0.3.0 (CTF)
+![0.3.0 archive](http://web.archive.org/web/20101231062052im_/http://teeworlds.com/screenshots/teewars_action.png)
 
 # 2007-12-20
 - Released 0.3.1
@@ -57,6 +59,9 @@
 # 2008-04-05
 - Released 0.4.2
 
+# 2008-05-21
+- 1st race on Teeworlds (Not DDRace !)
+
 # 2008-08-31
 - Released 0.4.3
 
@@ -66,11 +71,21 @@
 # 2009-01-25
 - Released 0.5.1
 
+# March 2009
+- (We don't know the exact date)
+- Mod : FNG 
+
 # 2009-10-26
 - Released 0.5.2
 
+# 2010-01-06
+- Mod : zCatch
+
 # 2011-04-09
 - Released 0.6.0
+
+# 2011-04-19
+- Mod : DDRace for 0.6.0
 
 # 2011-07-31
 - Released 0.6.1
