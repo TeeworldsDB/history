@@ -38,6 +38,9 @@
 - Released 0.3.1
 - Added "fair" player spawning, ability to kick players and welcome screen.
 
+# 2007-08-23
+- First view of Teeworlds Website 
+
 # 2008-01-09
 - Released 0.3.2
 
