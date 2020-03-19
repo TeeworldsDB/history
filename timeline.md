@@ -28,6 +28,16 @@
 # 2003-06-30
 - Matricks announced all gameplay code would be written in lua.
 
+# 2007-08-13
+- Released TeeWars 0.2.2 
+
+# 2007-08-15
+- Released TeeWars 0.2.3
+
+# 2007-08-23
+- First view of Teeworlds Website 
+WebSite >> http://web.archive.org/web/20070823052550/http://www.teewars.com/
+
 # 2007-12-15
 - Released 0.3.0
 - Added TDM, CTF, new maps and client-side prediction.
@@ -37,9 +47,6 @@
 # 2007-12-20
 - Released 0.3.1
 - Added "fair" player spawning, ability to kick players and welcome screen.
-
-# 2007-08-23
-- First view of Teeworlds Website 
 
 # 2008-01-09
 - Released 0.3.2
